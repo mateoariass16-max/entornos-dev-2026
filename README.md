@@ -1,4 +1,4 @@
-Initial commit: Configuración inicial del repositorio y README profesional
+
 # 📘 Entornos de Desarrollo – DEVNOVA
 
 ---
